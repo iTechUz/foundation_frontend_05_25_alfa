@@ -1,0 +1,20 @@
+[
+    {
+        "model": "BMW",
+        "year": 2020
+    },
+    {
+        "model": "Cherolet",
+        "year": 2025
+    },
+    {
+        "model": "Mers",
+        "year": 2010
+    },
+    {
+        "model": "Mers2"
+    },
+    {
+        "year": 10
+    }
+]

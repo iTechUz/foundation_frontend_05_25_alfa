@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bilol",
+        "password": "1234",
+        "age": 100
+    },
+    {
+        "name": "Javohir",
+        "password": "1234",
+        "age": 100
+    },
+    {
+        "name": "Ali",
+        "password": "1234",
+        "age": 100
+    },
+    {
+        "name": "ali",
+        "password": "1234",
+        "age": 100
+    }
+]
